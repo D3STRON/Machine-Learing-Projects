@@ -7,3 +7,10 @@ Twitter Disaster Prediction/.ipynb_checkpoints/GRU Torch-checkpoint.ipynb
 Twitter Disaster Prediction/.ipynb_checkpoints/RNN Torch-checkpoint.ipynb
 Twitter Disaster Prediction/submission.csv
 Transformers/.ipynb_checkpoints/Transformer-checkpoint.ipynb
+.data/Multi30k/mmt16_task1_test.tar.gz
+/.data
+/Spam Mail Detection/data
+/Store Sales Prediction/data
+/Transformers/data
+Store Sales Prediction/.ipynb_checkpoints/DataPreposcessing-checkpoint.ipynb
+Store Sales Prediction/.ipynb_checkpoints/Store Sales Prediction-checkpoint.ipynb
